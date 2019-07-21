@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("测试GIT");
 	}
 	
+
 	public void getDev() {
 		System.out.println("Get dev...");
 	}
