@@ -16,4 +16,8 @@ public class Dev {
 	public void getCommit2() {
 		System.out.println("hai shi bu dui.");
 	}
+	
+	public void getCommit3() {
+		System.out.println("第五次提交");
+	}
 }
