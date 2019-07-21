@@ -12,4 +12,8 @@ public class Dev {
 	public void test() {
 		System.out.println("wo yao ce shi le.");
 	}
+	
+	public void getCommit2() {
+		System.out.println("hai shi bu dui.");
+	}
 }
